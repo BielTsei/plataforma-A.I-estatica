@@ -1,0 +1,127 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+  background-image: url(/imgs/IMG-BG.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #f8fafc;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 32px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+p {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+#section_one {
+  padding: 60px;
+  background-color: #020617b3;
+  border-radius: 32px;
+  width: 1216px;
+  height: 866px;
+}
+
+#text {
+  font-weight: 400;
+}
+
+.container-1 {
+  margin-left: 112px;
+  margin-right: 112px;
+  margin-top: 67px;
+  margin-bottom: 67px;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+
+#container-icon-1 {
+  margin: auto;
+  width: 64px;
+  height: 64px;
+  border: 1px #1e293b solid;
+  background-color: #0f172a;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container-icon {
+  width: 64px;
+  height: 64px;
+  border: 1px #1e293b solid;
+  background-color: #0f172a;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container-icon-send {
+  width: 64px;
+  height: 64px;
+  border: 1px #94a3b8 solid;
+  background-color: #0f172a;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-row {
+  margin: auto;
+  padding-left: 16px;
+  padding-right: 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 560px;
+  height: 96px;
+  background-color: #0f172a;
+  border: 1px #94a3b8 solid;
+  border-radius: 16px;
+  margin-bottom: 16px;
+}
+
+.container-row-text {
+  margin: auto;
+  /*display: flex;*/
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  width: 1096px;
+  height: 64px;
+  background-color: #0f172a;
+  border: 1px #94a3b8 solid;
+  border-radius: 16px;
+  margin-bottom: 16px;
+}
+
+#container-text-2 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  margin-left: 16px;
+}
+
+#row {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 100%;
+  height: 1.5px;
+  background-color: #334155;
+}
+
+#line-order {
+  display: flex;
+}
